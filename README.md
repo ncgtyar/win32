@@ -11,4 +11,5 @@
 - Keyboard input ***(GetAsyncKeyState, RegisterHotKey, ...)***
 - Drawing and screen capture ***(BitBlt, CreateCompatibleDC, ...)***
 - Window management ***(FindWindow, ShowWindow, ...)***
+- Clipboard management ***(OpenClipboard, GetClipboardData, ...)***
 - Process hook ***(HookProc)***
